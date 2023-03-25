@@ -1,0 +1,24 @@
+body    {
+    background-color: #b7a9a9;
+    color: #FFFFFF;
+      font: 18px Arial, Tahoma;
+    }
+  
+h1{ 
+  text-align: center; font-family: 'Courier New', 
+  Courier; font-size: x-large; }
+h2{text-align: center; font-family: 'Courier New', 
+  Courier; font-size: large; font-style: oblique;}
+header{ text-align: center; background-color: whitesmoke;}
+img{height: 350px;}
+div{font-size: medium;}
+li{ list-style: disc inside url("/img/flor.png");}
+p{text-align: center; font-style: oblique; color:rgb(53, 51, 51);font-size: medium; }
+.marco {
+  background: linear-gradient(to bottom right, #d07a74 16%,#c3abbe 51%, #d07a74);
+  padding: 12px; text-align: right; height: 200px;}
+footer{margin-top: 8%;text-align: center; background-color: #f9f6f6; color:#d07a74; position: relative;}
+.icon{height: 16px;}
+.linkedin{height: 30px;}
+.li{size:10px}
+
